@@ -17,7 +17,7 @@
 #### Nous avons réalisés un algorithme de K-means pour la première et la deuxième partie du projet. Pour pouvoir classifier les prochains clients, nous avons utilisés deux algorithmes de classifications :
 * Regression logistique 
 * Random Forest
-* 
+
 #### Nous testons les algorithmes sur deux jeux de données pour voir si les résultats sont similaires ou pas.
 
 
