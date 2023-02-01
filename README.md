@@ -21,4 +21,4 @@
 #### Nous testons les algorithmes sur deux jeux de données pour voir si les résultats sont similaires ou pas.
 
 
-#### Pour la troisième partie du projet, nous avons utilisés l'algorithmes ALS(Alternating Least Square) pour recommander des films aux utilisateurs 
+#### Pour la troisième partie du projet, nous avons utilisés l'algorithmes ALS(Alternating Least Square) pour recommander des films aux utilisateurs. 
